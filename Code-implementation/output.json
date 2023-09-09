@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "John",
+        "Number": 153,
+        "IsArmstrong": true,
+        "IsStrong": false,
+        "IsPerfect": false
+    },
+    {
+        "Name": "Alice",
+        "Number": 28,
+        "IsArmstrong": false,
+        "IsStrong": true,
+        "IsPerfect": true
+    },
+    {
+        "Name": "Bob",
+        "Number": 6,
+        "IsArmstrong": false,
+        "IsStrong": false,
+        "IsPerfect": true
+    }
+    {
+        "Name": "Viswa",
+        "Number": 370,
+        "IsArmstrong": true,
+        "IsStrong": false,
+        "IsPerfect": true
+    }
+    {
+        "Name": "Pearson",
+        "Number": 145,
+        "IsArmstrong": false,
+        "IsStrong": true,
+        "IsPerfect": true
+    }
+]
